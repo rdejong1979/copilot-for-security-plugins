@@ -14,4 +14,4 @@ paths:
                 200:
                   description: Successful retrieval. 
                 401:
-                  description: Unsuccessful authentication
+                  description: Unsuccessful authentication.
